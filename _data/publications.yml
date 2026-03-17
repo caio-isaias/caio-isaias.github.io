@@ -1,22 +1,20 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: Role of maternal immune response and placental exosomes in infant cognitive outcome at 12 months of age
+    authors: Gisele Gouveia, Caroline Camilo, Sergio Nery Simoes, <strong>Caio Braga</strong>, Raquel Chacon Ruiz Martinez, Felipe Camoezi, Lucas Pinheiro Badaro Moreira, Veronica Euclydes, Lis Vilela, Juliana Pereira, Euripedes Constantino Miguel, Guilherme Polanczyk, David Correa Martins Jr, Helena Brentani
+    conference: Journal of Reproductive Immunology, 2025.
+    pdf: https://doi.org/10.1016/j.jri.2025.104806
+    notes: Article
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: Maternal immune response during pregnancy and neurodevelopmental outcomes: A longitudinal approach
+    authors: Veronica Euclydes*, <strong>Caio Braga*</strong>, Gisele Gouveia, Raquel CR Martinez, Caroline Camilo, Sergio N Simões, David C Martins-Jr, Lislaine Fracolli, Adriana Argeu, Alexandre Ferraro, Alicia Matijasevich, Daniel Fatori, Euripedes C Miguel, Guilherme V Polanczyk, Helena Brentani. (*First authors)
+    conference: Brain, Behavior, & Immunity-Health, 2024.
+    pdf: https://doi.org/10.1016/j.bbih.2024.100832
+    notes: Article
+   # image: ./assets/img/teaser_example.png
+
+  - title: Identifying biomarkers and trajectories of executive functions and language development in the first 3 years of life: Design, methods, and findings of the Germina cohort study
+    authors: Daniel Fatori, Elizabeth Shephard, Danilo Benette, Nathalia Ferrazzo Naspolini, Grover Castro Guzman, Jaqueline Yu Ting Wang, Pedro Tótolo, Anthonieta Looman Mafra, <strong>Caio Isaias</strong>, Davi Pereira Dos Santos, Fabiele Baldino Russo, Gerson Kobayashi, Adriana Argeu, Monike Teixeira, Ana Claudia Mattiello-Sverzut, Maria Teresa Bechere Fernandes, Danila Cristina Petian-Alonso, Helena Brentani, Marilia Scliar, Paulo Alfonso Schüroff, Pedro Zuccolo, Rogério Lerner, Stephania Geraldini, Veronica Luiza Vale Euclydes, Alicia Matijasevich, Alline Cristina de Campos, André Carlos Ponce de Carvalho, André Fujita, Carla R Taddei, Maria Rita Passos-Bueno, Patricia Beltrão-Braga, Guilherme Vanoni Polanczyk
+    conference: Development and Psychopathology, 2024.
+    pdf: https://doi.org/10.1017/S0954579425000069
+    notes: Article
